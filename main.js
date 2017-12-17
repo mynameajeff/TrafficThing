@@ -63,6 +63,7 @@ function draw() {
         10
     );
 
+    //creates cars moving across the road
     clist[car_choose]();
 
     draw_traffic_light(
